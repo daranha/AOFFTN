@@ -3,3 +3,6 @@ trade_matrix_clean.csv
 */.ipynb_checkpoints/*
 /normalization/GDP_country_year.json
 /normalization/pop_country_year.json
+AF_trade_200612_v2.ipynb
+**.png
+world_shapefiles/
