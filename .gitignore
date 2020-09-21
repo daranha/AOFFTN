@@ -8,3 +8,10 @@ AF_trade_200612_v2.ipynb
 world_shapefiles/
 normalization/datasets_intersection/notas.txt
 datasets_choroplets/
+firstcell.txt
+networks_saved/
+maps.zip
+normalization/distances_countries_inKM.csv
+unify_names.ipynb
+vector_spatial_introd/
+united_names_datasets/
