@@ -1,3 +1,17 @@
 trade_matrix_clean.csv
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 /normalization/GDP_country_year.json
 /normalization/pop_country_year.json
+AF_trade_200612_v2.ipynb
+**.png
+world_shapefiles/
+normalization/datasets_intersection/notas.txt
+datasets_choroplets/
+firstcell.txt
+networks_saved/
+maps.zip
+normalization/distances_countries_inKM.csv
+unify_names.ipynb
+vector_spatial_introd/
+united_names_datasets/
